@@ -41,13 +41,6 @@ Fullstack engineer who ships production React/Next.js + Node interfaces — and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-HJ&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-HJ&layout=compact&hide_border=true" height="165"/>
-</p>
-
 ---
 
 <p align="center"><sub>📫 ricardo_antoniohj@hotmail.com &nbsp;·&nbsp; <a href="https://linkedin.com/in/ricardo-hj">linkedin.com/in/ricardo-hj</a></sub></p>
